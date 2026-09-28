@@ -1,6 +1,6 @@
-# VoiceCommand
+# CtrlX
 
-VoiceCommand é um sistema de execução de ações por voz com foco em baixa latência e processamento local.
+CtrlX é um sistema de execução de ações por voz com foco em baixa latência e processamento local.
 
 ## Architecture
 
